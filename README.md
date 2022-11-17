@@ -1,1 +1,1 @@
-# renderChart.vk
+# Render charts **easily** in React Native
